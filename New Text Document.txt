@@ -1,0 +1,6 @@
+luật cascade
+dùng để giải quyết css bị xung đột
+dựa vào 3 yếu tố
+-độ ưu tiên của tài liệu css
+-độ chi tiết của một selector
+- thứ tự của luật
